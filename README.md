@@ -1,16 +1,15 @@
-## N주차
+## 5주차
 
 ### 기간
 
-YYYY.MM.DD - YYYY.MM.DD
+2025.07.23 - 2025.07.30
 
 ### 문제
 
-1. [문제명](링크)
-2. [문제명](링크)
-3. [문제명](링크)
-4. [문제명](링크)
-5. [문제명](링크)
+1. [Climbing Stairs](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/569/)
+2. [Best Time to Buy and Sell Stock](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/572/)
+3. [Maximum Subarray](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/566/)
+4. [House Robber](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/576/)
 
 ### 규칙
 
